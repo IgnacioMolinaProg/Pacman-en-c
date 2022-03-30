@@ -1,0 +1,1005 @@
+# depslib dependency file v1.0
+1491400450 source:c:\users\ignacio molina\desktop\pacman 1.0\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1573571878 source:c:\users\ignacio molina\desktop\pacman 1.0\graficos.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+	"gotoxy.h"
+	"windows.h"
+
+1491399896 c:\users\ignacio molina\desktop\pacman 1.0\gotoxy.h
+
+1573604792 source:c:\users\ignacio molina\desktop\pacman 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Niveles.h"
+	"Usuarios.h"
+	"Listas.h"
+	"Menus.h"
+
+1573558597 c:\users\ignacio molina\desktop\pacman 1.0\graficos.h
+
+1573572022 source:c:\users\ignacio molina\desktop\pacman 1.0\niveles.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+
+1573480258 c:\users\ignacio molina\desktop\pacman 1.0\niveles.h
+
+1491400450 source:d:\pacman 1.0\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1573250957 source:d:\pacman 1.0\graficos.c
+	<stdio.h>
+	<stdlib.h>
+	"gotoxy.h"
+
+1491399896 d:\pacman 1.0\gotoxy.h
+
+1573244826 source:d:\pacman 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Niveles.h"
+	"Usuarios.h"
+	"Listas.h"
+	"Menus.h"
+
+1573231577 d:\pacman 1.0\graficos.h
+
+1573073335 d:\pacman 1.0\niveles.h
+
+1573248604 source:d:\pacman 1.0\niveles.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"gotoxy.h"
+	"Graficos.h"
+
+1491400450 source:e:\pacman 1.0\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1573571878 source:e:\pacman 1.0\graficos.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+	"gotoxy.h"
+	"windows.h"
+
+1491399896 e:\pacman 1.0\gotoxy.h
+
+1573604792 source:e:\pacman 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Niveles.h"
+	"Usuarios.h"
+	"Listas.h"
+	"Menus.h"
+
+1573558597 e:\pacman 1.0\graficos.h
+
+1573480258 e:\pacman 1.0\niveles.h
+
+1573572022 source:e:\pacman 1.0\niveles.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+
+1491400450 source:f:\pacman 1.0\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1572658845 source:f:\pacman 1.0\graficos.c
+	<stdio.h>
+	<stdlib.h>
+	"gotoxy.h"
+
+1491399896 f:\pacman 1.0\gotoxy.h
+
+1572969012 source:f:\pacman 1.0\niveles.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	"gotoxy.h"
+	"Graficos.h"
+
+1572648104 f:\pacman 1.0\graficos.h
+
+1572630620 source:f:\pacman 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Niveles.h"
+	"Usuarios.h"
+	"Listas.h"
+
+1572661971 f:\pacman 1.0\niveles.h
+
+1572629884 source:f:\pacman 1.0\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Listas.h"
+	"gotoxy.h"
+	"Graficos.h"
+
+1572630356 source:f:\pacman 1.0\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gotoxy.h"
+	"Graficos.h"
+
+1572630356 f:\pacman 1.0\listas.h
+
+1572625290 f:\pacman 1.0\usuarios.h
+	"Listas.h"
+
+1572625290 d:\pacman 1.0\usuarios.h
+	"Listas.h"
+
+1573071092 d:\pacman 1.0\listas.h
+
+1573127380 source:d:\pacman 1.0\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Listas.h"
+	"gotoxy.h"
+	"Graficos.h"
+
+1573125599 source:d:\pacman 1.0\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gotoxy.h"
+	"Graficos.h"
+
+1573606706 source:e:\pacman 1.0\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gotoxy.h"
+	"Graficos.h"
+
+1573496914 e:\pacman 1.0\usuarios.h
+	"Listas.h"
+
+1573605428 e:\pacman 1.0\listas.h
+
+1573567772 source:e:\pacman 1.0\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Listas.h"
+	"gotoxy.h"
+	"Graficos.h"
+
+1573606706 source:c:\users\ignacio molina\desktop\pacman 1.0\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gotoxy.h"
+	"Graficos.h"
+
+1573496914 c:\users\ignacio molina\desktop\pacman 1.0\usuarios.h
+	"Listas.h"
+
+1573605428 c:\users\ignacio molina\desktop\pacman 1.0\listas.h
+
+1573567772 source:c:\users\ignacio molina\desktop\pacman 1.0\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Listas.h"
+	"gotoxy.h"
+	"Graficos.h"
+
+1573609429 e:\pacman 1.0\menus.h
+
+1573609666 source:e:\pacman 1.0\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Listas.h"
+	"Usuarios.h"
+	"niveles.h"
+
+1573069928 d:\pacman 1.0\menus.h
+
+1573169700 source:d:\pacman 1.0\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Listas.h"
+	"Usuarios.h"
+	"niveles.h"
+
+1573609429 c:\users\ignacio molina\desktop\pacman 1.0\menus.h
+
+1573609666 source:c:\users\ignacio molina\desktop\pacman 1.0\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Listas.h"
+	"Usuarios.h"
+	"niveles.h"
+
+1491400450 source:d:\pacman con hilos\pacman 1.0\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1573485866 source:d:\pacman con hilos\pacman 1.0\graficos.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+	"gotoxy.h"
+	"windows.h"
+
+1491399896 d:\pacman con hilos\pacman 1.0\gotoxy.h
+
+1573489443 source:d:\pacman con hilos\pacman 1.0\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gotoxy.h"
+	"Graficos.h"
+
+1573485099 d:\pacman con hilos\pacman 1.0\graficos.h
+
+1573496914 source:d:\pacman con hilos\pacman 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Niveles.h"
+	"Usuarios.h"
+	"Listas.h"
+	"Menus.h"
+
+1573480258 d:\pacman con hilos\pacman 1.0\niveles.h
+
+1573496914 d:\pacman con hilos\pacman 1.0\usuarios.h
+	"Listas.h"
+
+1573071092 d:\pacman con hilos\pacman 1.0\listas.h
+
+1573404740 d:\pacman con hilos\pacman 1.0\menus.h
+
+1573491290 source:d:\pacman con hilos\pacman 1.0\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Listas.h"
+	"Usuarios.h"
+	"niveles.h"
+
+1573490590 source:d:\pacman con hilos\pacman 1.0\niveles.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+
+1573497023 source:d:\pacman con hilos\pacman 1.0\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Listas.h"
+	"gotoxy.h"
+	"Graficos.h"
+
+1491400450 source:e:\pacman con hilos\pacman 1.0\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1573485866 source:e:\pacman con hilos\pacman 1.0\graficos.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+	"gotoxy.h"
+	"windows.h"
+
+1491399896 e:\pacman con hilos\pacman 1.0\gotoxy.h
+
+1573522397 source:e:\pacman con hilos\pacman 1.0\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Listas.h"
+	"Usuarios.h"
+	"niveles.h"
+
+1573485099 e:\pacman con hilos\pacman 1.0\graficos.h
+
+1573071092 e:\pacman con hilos\pacman 1.0\listas.h
+
+1573496914 e:\pacman con hilos\pacman 1.0\usuarios.h
+	"Listas.h"
+
+1573480258 e:\pacman con hilos\pacman 1.0\niveles.h
+
+1573515638 source:e:\pacman con hilos\pacman 1.0\niveles.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+
+1573514638 source:e:\pacman con hilos\pacman 1.0\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Listas.h"
+	"gotoxy.h"
+	"Graficos.h"
+
+1573489443 source:e:\pacman con hilos\pacman 1.0\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gotoxy.h"
+	"Graficos.h"
+
+1573517590 source:e:\pacman con hilos\pacman 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Niveles.h"
+	"Usuarios.h"
+	"Listas.h"
+	"Menus.h"
+
+1573518603 e:\pacman con hilos\pacman 1.0\menus.h
+
+1491400450 source:f:\pacman con hilos\pacman 1.0\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1573485866 source:f:\pacman con hilos\pacman 1.0\graficos.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+	"gotoxy.h"
+	"windows.h"
+
+1491399896 f:\pacman con hilos\pacman 1.0\gotoxy.h
+
+1573489443 source:f:\pacman con hilos\pacman 1.0\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gotoxy.h"
+	"Graficos.h"
+
+1573485099 f:\pacman con hilos\pacman 1.0\graficos.h
+
+1573496914 source:f:\pacman con hilos\pacman 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Niveles.h"
+	"Usuarios.h"
+	"Listas.h"
+	"Menus.h"
+
+1573480258 f:\pacman con hilos\pacman 1.0\niveles.h
+
+1573496914 f:\pacman con hilos\pacman 1.0\usuarios.h
+	"Listas.h"
+
+1573071092 f:\pacman con hilos\pacman 1.0\listas.h
+
+1573404740 f:\pacman con hilos\pacman 1.0\menus.h
+
+1573491290 source:f:\pacman con hilos\pacman 1.0\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Listas.h"
+	"Usuarios.h"
+	"niveles.h"
+
+1573495633 source:f:\pacman con hilos\pacman 1.0\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Listas.h"
+	"gotoxy.h"
+	"Graficos.h"
+
+1573490590 source:f:\pacman con hilos\pacman 1.0\niveles.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+
+1491400450 source:c:\users\ignacio molina\desktop\programas\pacman 1.0\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1573571878 source:c:\users\ignacio molina\desktop\programas\pacman 1.0\graficos.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+	"gotoxy.h"
+	"windows.h"
+
+1491399896 c:\users\ignacio molina\desktop\programas\pacman 1.0\gotoxy.h
+
+1573606706 source:c:\users\ignacio molina\desktop\programas\pacman 1.0\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gotoxy.h"
+	"Graficos.h"
+
+1573747440 c:\users\ignacio molina\desktop\programas\pacman 1.0\graficos.h
+
+1573746476 source:c:\users\ignacio molina\desktop\programas\pacman 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Niveles.h"
+	"Usuarios.h"
+	"Listas.h"
+	"Menus.h"
+
+1573747438 c:\users\ignacio molina\desktop\programas\pacman 1.0\niveles.h
+
+1573747439 c:\users\ignacio molina\desktop\programas\pacman 1.0\usuarios.h
+	"Listas.h"
+
+1573605428 c:\users\ignacio molina\desktop\programas\pacman 1.0\listas.h
+
+1573609429 c:\users\ignacio molina\desktop\programas\pacman 1.0\menus.h
+
+1573567772 source:c:\users\ignacio molina\desktop\programas\pacman 1.0\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Listas.h"
+	"gotoxy.h"
+	"Graficos.h"
+
+1573747436 source:c:\users\ignacio molina\desktop\programas\pacman 1.0\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Listas.h"
+	"Usuarios.h"
+	"niveles.h"
+
+1573747437 source:c:\users\ignacio molina\desktop\programas\pacman 1.0\niveles.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+
+1491400450 source:d:\programas\pacman 1.0\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1573571878 source:d:\programas\pacman 1.0\graficos.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+	"gotoxy.h"
+	"windows.h"
+
+1491399896 d:\programas\pacman 1.0\gotoxy.h
+
+1573606706 source:d:\programas\pacman 1.0\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gotoxy.h"
+	"Graficos.h"
+
+1573747440 d:\programas\pacman 1.0\graficos.h
+
+1573746476 source:d:\programas\pacman 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Niveles.h"
+	"Usuarios.h"
+	"Listas.h"
+	"Menus.h"
+
+1573747438 d:\programas\pacman 1.0\niveles.h
+
+1573747439 d:\programas\pacman 1.0\usuarios.h
+	"Listas.h"
+
+1573605428 d:\programas\pacman 1.0\listas.h
+
+1573609429 d:\programas\pacman 1.0\menus.h
+
+1573747436 source:d:\programas\pacman 1.0\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Listas.h"
+	"Usuarios.h"
+	"niveles.h"
+
+1573747437 source:d:\programas\pacman 1.0\niveles.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+
+1573567772 source:d:\programas\pacman 1.0\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Listas.h"
+	"gotoxy.h"
+	"Graficos.h"
+
+1491400450 source:d:\documentos\programas\pacman 1.0\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1573571878 source:d:\documentos\programas\pacman 1.0\graficos.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+	"gotoxy.h"
+	"windows.h"
+
+1491399896 d:\documentos\programas\pacman 1.0\gotoxy.h
+
+1573606706 source:d:\documentos\programas\pacman 1.0\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gotoxy.h"
+	"Graficos.h"
+
+1573747440 d:\documentos\programas\pacman 1.0\graficos.h
+
+1573746476 source:d:\documentos\programas\pacman 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Niveles.h"
+	"Usuarios.h"
+	"Listas.h"
+	"Menus.h"
+
+1573747438 d:\documentos\programas\pacman 1.0\niveles.h
+
+1573747439 d:\documentos\programas\pacman 1.0\usuarios.h
+	"Listas.h"
+
+1573605428 d:\documentos\programas\pacman 1.0\listas.h
+
+1573609429 d:\documentos\programas\pacman 1.0\menus.h
+
+1573747436 source:d:\documentos\programas\pacman 1.0\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Listas.h"
+	"Usuarios.h"
+	"niveles.h"
+
+1573747437 source:d:\documentos\programas\pacman 1.0\niveles.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+
+1573567772 source:d:\documentos\programas\pacman 1.0\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Listas.h"
+	"gotoxy.h"
+	"Graficos.h"
+
+1491400450 source:c:\users\nacho\downloads\pacman_1.0\pacman 1.0\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1617635816 source:c:\users\nacho\downloads\pacman_1.0\pacman 1.0\graficos.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+	"gotoxy.h"
+	"windows.h"
+
+1491399896 c:\users\nacho\downloads\pacman_1.0\pacman 1.0\gotoxy.h
+
+1617635865 source:c:\users\nacho\downloads\pacman_1.0\pacman 1.0\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gotoxy.h"
+	"Graficos.h"
+
+1573747440 c:\users\nacho\downloads\pacman_1.0\pacman 1.0\graficos.h
+
+1617636642 source:c:\users\nacho\downloads\pacman_1.0\pacman 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Niveles.h"
+	"Usuarios.h"
+	"Listas.h"
+	"Menus.h"
+	<mmsystem.h>
+
+1573747438 c:\users\nacho\downloads\pacman_1.0\pacman 1.0\niveles.h
+
+1573747439 c:\users\nacho\downloads\pacman_1.0\pacman 1.0\usuarios.h
+	"Listas.h"
+
+1573605428 c:\users\nacho\downloads\pacman_1.0\pacman 1.0\listas.h
+
+1573609429 c:\users\nacho\downloads\pacman_1.0\pacman 1.0\menus.h
+
+1573747437 source:c:\users\nacho\downloads\pacman_1.0\pacman 1.0\niveles.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+
+1573567772 source:c:\users\nacho\downloads\pacman_1.0\pacman 1.0\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Listas.h"
+	"gotoxy.h"
+	"Graficos.h"
+
+1629805406 source:c:\users\nacho\downloads\pacman_1.0\pacman 1.0\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Listas.h"
+	"Usuarios.h"
+	"Niveles.h"
+	<mmsystem.h>
+
+1491400450 source:c:\users\nacho\documents\programas en c\pacman_1.0\pacman 1.0\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1617635816 source:c:\users\nacho\documents\programas en c\pacman_1.0\pacman 1.0\graficos.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+	"gotoxy.h"
+	"windows.h"
+
+1491399896 c:\users\nacho\documents\programas en c\pacman_1.0\pacman 1.0\gotoxy.h
+
+1617635865 source:c:\users\nacho\documents\programas en c\pacman_1.0\pacman 1.0\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gotoxy.h"
+	"Graficos.h"
+
+1573747440 c:\users\nacho\documents\programas en c\pacman_1.0\pacman 1.0\graficos.h
+
+1648578490 source:c:\users\nacho\documents\programas en c\pacman_1.0\pacman 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Niveles.h"
+	"Usuarios.h"
+	"Listas.h"
+	"Menus.h"
+
+1648579817 c:\users\nacho\documents\programas en c\pacman_1.0\pacman 1.0\niveles.h
+
+1573747439 c:\users\nacho\documents\programas en c\pacman_1.0\pacman 1.0\usuarios.h
+	"Listas.h"
+
+1573605428 c:\users\nacho\documents\programas en c\pacman_1.0\pacman 1.0\listas.h
+
+1573609429 c:\users\nacho\documents\programas en c\pacman_1.0\pacman 1.0\menus.h
+
+1648576832 source:c:\users\nacho\documents\programas en c\pacman_1.0\pacman 1.0\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Listas.h"
+	"Usuarios.h"
+	"Niveles.h"
+	<mmsystem.h>
+
+1648579959 source:c:\users\nacho\documents\programas en c\pacman_1.0\pacman 1.0\niveles.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Niveles.h"
+
+1648570259 source:c:\users\nacho\documents\programas en c\pacman_1.0\pacman 1.0\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Listas.h"
+	"gotoxy.h"
+	"Graficos.h"
+	"Niveles.h"
+
+1491400450 source:c:\users\nacho\documents\programas en c\pacman 1.0\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1617635816 source:c:\users\nacho\documents\programas en c\pacman 1.0\graficos.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<semaphore.h>
+	"gotoxy.h"
+	"windows.h"
+
+1491399896 c:\users\nacho\documents\programas en c\pacman 1.0\gotoxy.h
+
+1617635865 source:c:\users\nacho\documents\programas en c\pacman 1.0\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"gotoxy.h"
+	"Graficos.h"
+
+1573747440 c:\users\nacho\documents\programas en c\pacman 1.0\graficos.h
+
+1648578490 source:c:\users\nacho\documents\programas en c\pacman 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<mmsystem.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Niveles.h"
+	"Usuarios.h"
+	"Listas.h"
+	"Menus.h"
+
+1648579817 c:\users\nacho\documents\programas en c\pacman 1.0\niveles.h
+
+1573747439 c:\users\nacho\documents\programas en c\pacman 1.0\usuarios.h
+	"Listas.h"
+
+1573605428 c:\users\nacho\documents\programas en c\pacman 1.0\listas.h
+
+1573609429 c:\users\nacho\documents\programas en c\pacman 1.0\menus.h
+
+1648576832 source:c:\users\nacho\documents\programas en c\pacman 1.0\menus.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Listas.h"
+	"Usuarios.h"
+	"Niveles.h"
+	<mmsystem.h>
+
+1648584132 source:c:\users\nacho\documents\programas en c\pacman 1.0\niveles.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<pthread.h>
+	"gotoxy.h"
+	"Graficos.h"
+	"Niveles.h"
+
+1648570259 source:c:\users\nacho\documents\programas en c\pacman 1.0\usuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Listas.h"
+	"gotoxy.h"
+	"Graficos.h"
+	"Niveles.h"
+
